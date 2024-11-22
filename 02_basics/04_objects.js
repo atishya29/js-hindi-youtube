@@ -77,6 +77,8 @@ console.log(instructor);
 
 
 // API - jab bhi apna kam kisi aur k ser p daal dena h use api kehte h
+// isme backend se kuch value aati h unke likhte h json m json ek tarah ka objecct hi h bs us object ka naam nahi h json m key bhi ek string hoti h aur uski value bhi 
+// api json ki jagah array k formate bhi milti h array jike ander object h 
 
 
 // {
@@ -90,3 +92,5 @@ console.log(instructor);
     {},
     {}
 ]
+
+// api smjhne k lie ek tool h jsonformator uspe jaake api k code ko smjh skte h
