@@ -10,7 +10,7 @@ const dc_heros = ["superman", "flash", "batman"]
 // console.log(allHeros);
 
 
-// spread operator- ye array jo spread krdeta h aur kyuki array  spread hogye h to vo  array ni rahe unka ek ek element individual aayega ye bhi ek tarah se concat ki tarah hi result deta h
+// spread operator- ye array ko spread krdeta h aur kyuki array  spread hogye h to vo  array ni rahe unka ek ek element individual aayega ye bhi ek tarah se concat ki tarah hi result deta h
 const all_new_heros = [...marvel_heros, ...dc_heros]
 
 // console.log(all_new_heros);

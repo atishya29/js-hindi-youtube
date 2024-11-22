@@ -11,7 +11,8 @@ const mySym = Symbol("key1")
 const JsUser = {
     name: "Hitesh",
     "full name": "Hitesh Choudhary",  // ise hum dot se access ni krskte to sq notation hi use krna pdega
-    [mySym]: "mykey1",  // symbol ki tarah use krna h to isi syntax ko use krna pdega
+    [mySym]: "mykey1",  // symbol ki tarah use krna h to isi syntax ko use krna pdega symbol ko object m 
+    //                     add krne k lie
     age: 18,
     location: "Jaipur",
     email: "hitesh@google.com",

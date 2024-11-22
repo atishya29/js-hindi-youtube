@@ -64,7 +64,7 @@ users[1].email
 
 const course = {
     coursename: "js in hindi",
-    price: "999",
+    price: "999", 
     courseInstructor: "hitesh"
 }
 
@@ -74,6 +74,10 @@ const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
 console.log(instructor);
+
+
+// API - jab bhi apna kam kisi aur k ser p daal dena h use api kehte h
+
 
 // {
 //     "name": "hitesh",
